@@ -1,1 +1,0 @@
-# telnyx-sms-worker
